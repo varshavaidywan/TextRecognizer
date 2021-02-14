@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532604249018",
+    "firebase_url": "https://text-recognizer-94ffc.firebaseio.com",
+    "project_id": "text-recognizer-94ffc",
+    "storage_bucket": "text-recognizer-94ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532604249018:android:1776954db402fd8416b383",
+        "android_client_info": {
+          "package_name": "com.example.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532604249018-minm058l7h27paeosahp64dc3uv6eq0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvy3icbL82r4RKOwQWV9CeniRNtZjz8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532604249018-minm058l7h27paeosahp64dc3uv6eq0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
